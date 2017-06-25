@@ -1,4 +1,5 @@
-﻿function Get-JsonContent(){
+﻿# This is a test at adding shit
+function Get-JsonContent(){
 	[CmdletBinding()]
 	
 	param (
